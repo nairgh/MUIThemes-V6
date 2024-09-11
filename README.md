@@ -1,3 +1,7 @@
+# How we can use custom themes for the components using mui
+
+![image](https://github.com/user-attachments/assets/e17ec01e-09e3-49cf-a161-cba44614661c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
